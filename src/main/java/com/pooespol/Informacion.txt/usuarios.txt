@@ -1,0 +1,10 @@
+---------------USUARIOS---------------------------
+Revisor,3,Pedro,Sanchez,pedro232474824@gmail.com,revisor1,abcd1234,Biologia
+Revisor,4,Juan,Perez,juan232474824@gmail.com,revisor2,efgh5678,Quimica
+Editor,5,Luis,Ramirez,luis232474824@gmail.com,editor1,wxyz1234,Journal A
+Editor,6,Elena,Garcia,elena@gmail.com,editor2,ijkl5678,Journal B
+Editor,7,Gianluca,Espinoza,gianlu@gmail.com,editor3,mnop9012,Journal C
+Editor,8,Sebastian,Toaza,sebastoa@gmail.com,editor4,qrst3456,Journal D
+Revisor,9,Arturo,Yipez,artyi@gmail.com,revisor3,ijkl7654,Biologia
+Revisor,10,Alejandro,Estrada,alest@gmail.com,revisor4,poiu3423,Fisica
+Autor,9,hola ,hola,roberto@espol.edu.ec,espol,ciencia
